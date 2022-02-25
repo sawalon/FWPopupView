@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "FWPopupView",
     platforms: [
-        .iOS(.v11)
+        .iOS(.v11),
     ],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
@@ -18,8 +18,7 @@ let package = Package(
         .package(
             name: "SnapKit",
             url: "https://github.com/SnapKit/SnapKit.git",
-            from: "5.0.1"
-        )
+            from: "5.0.1"),
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
     ],
@@ -28,9 +27,9 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
             name: "FWPopupView",
-            dependencies: ["SnapKit"]),
+            dependencies: ["SnapKit"],
+            resources: [.copy("Resources/FWPopupView.bundle")]),
         .testTarget(
             name: "FWPopupViewTests",
             dependencies: ["FWPopupView"]),
-    ]
-)
+    ])

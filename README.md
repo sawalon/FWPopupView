@@ -117,26 +117,26 @@ FWSheetView *sheetView = [FWSheetView sheetWithTitle: @"标题"
 
 
 ## 效果：
-![](https://github.com/choiceyou/FWPopupView/blob/master/%E6%95%88%E6%9E%9C/IMG_0714.PNG)
-![](https://github.com/choiceyou/FWPopupView/blob/master/%E6%95%88%E6%9E%9C/IMG_0715.PNG)
+![](https://github.com/choiceyou/FWPopupView/blob/master/effect/IMG_0714.PNG)
+![](https://github.com/choiceyou/FWPopupView/blob/master/effect/IMG_0715.PNG)
 
-![](https://github.com/choiceyou/FWPopupView/blob/master/%E6%95%88%E6%9E%9C/IMG_0716.PNG)
-![](https://github.com/choiceyou/FWPopupView/blob/master/%E6%95%88%E6%9E%9C/IMG_0717.PNG)
+![](https://github.com/choiceyou/FWPopupView/blob/master/effect/IMG_0716.PNG)
+![](https://github.com/choiceyou/FWPopupView/blob/master/effect/IMG_0717.PNG)
 
-![](https://github.com/choiceyou/FWPopupView/blob/master/%E6%95%88%E6%9E%9C/IMG_0718.PNG)
-![](https://github.com/choiceyou/FWPopupView/blob/master/%E6%95%88%E6%9E%9C/IMG_0719.PNG)
+![](https://github.com/choiceyou/FWPopupView/blob/master/effect/IMG_0718.PNG)
+![](https://github.com/choiceyou/FWPopupView/blob/master/effect/IMG_0719.PNG)
 
-![](https://github.com/choiceyou/FWPopupView/blob/master/%E6%95%88%E6%9E%9C/IMG_0720.PNG)
-![](https://github.com/choiceyou/FWPopupView/blob/master/%E6%95%88%E6%9E%9C/IMG_0721.PNG)
+![](https://github.com/choiceyou/FWPopupView/blob/master/effect/IMG_0720.PNG)
+![](https://github.com/choiceyou/FWPopupView/blob/master/effect/IMG_0721.PNG)
 
-![](https://github.com/choiceyou/FWPopupView/blob/master/%E6%95%88%E6%9E%9C/IMG_0216.PNG)
-![](https://github.com/choiceyou/FWPopupView/blob/master/%E6%95%88%E6%9E%9C/IMG_0217.PNG)
+![](https://github.com/choiceyou/FWPopupView/blob/master/effect/IMG_0216.PNG)
+![](https://github.com/choiceyou/FWPopupView/blob/master/effect/IMG_0217.PNG)
 
-![](https://github.com/choiceyou/FWPopupView/blob/master/%E6%95%88%E6%9E%9C/Custom.gif)
-![](https://github.com/choiceyou/FWPopupView/blob/master/%E6%95%88%E6%9E%9C/Menu.gif)
+![](https://github.com/choiceyou/FWPopupView/blob/master/effect/Custom.gif)
+![](https://github.com/choiceyou/FWPopupView/blob/master/effect/Menu.gif)
 
-![](https://github.com/choiceyou/FWPopupView/blob/master/%E6%95%88%E6%9E%9C/IMG_0218.PNG)
-![](https://github.com/choiceyou/FWPopupView/blob/master/%E6%95%88%E6%9E%9C/IMG_0219.PNG)
+![](https://github.com/choiceyou/FWPopupView/blob/master/effect/IMG_0218.PNG)
+![](https://github.com/choiceyou/FWPopupView/blob/master/effect/IMG_0219.PNG)
 
 
 
